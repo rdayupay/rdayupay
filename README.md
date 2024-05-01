@@ -1,6 +1,6 @@
-## Hey there, I'm Raquel (ra-kel)! 🙂
+## Hey there, I'm Raquel Dayupay! (ra-kel) 🙂
 
-Welcome to my GitHub playground! 👋 I'm Raquel Dayupay, a passionate software developer who loves to explore new projects and technologies.
+Welcome to my GitHub playground! 👋 I'm a passionate software developer who loves to explore new projects and technologies.
 
 ## 🙋‍♀️ Get to Know Me
 
